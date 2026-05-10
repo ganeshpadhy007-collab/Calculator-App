@@ -1,6 +1,6 @@
 ## Interactive Calculator App
 
-Live Demo: [Click Here](https://ganeshpadhy007-collab.github.io/calculator-app/)
+Live Demo: [Click Here](https://ganeshpadhy007-collab.github.io/Calculator-App/)
 
 ### Features
 - **Full Functionality:** Addition, Subtraction, Multiplication, Division with decimal support
